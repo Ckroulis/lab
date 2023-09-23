@@ -151,13 +151,21 @@ print(len(a))
 
 ### Результат.
 
-![Меню](https://github.com/Ckroulis/lab/blob/Tema-2/pic/lab2_6.jpg 74)
-- Краткие Выводы
+![Меню](https://github.com/Ckroulis/lab/blob/Tema-2/pic/lab2_7.jpg)
+
+## Выводы
+
+С помощью функции `len()` можно узнать длинну строки
 
 ## Самостоятельная работа №8
-- Текст задания
-- Оформленный код
-- Скрины консоли
+### Переведите предложение 'HELLO WORLD' в нижний регистр. Программа должна занимать не более двух строк редактора кода.
+
+```python
+a = "HELLO WORLD"
+print(a.lower())
+```
+
+![Меню](https://github.com/Ckroulis/lab/blob/Tema-2/pic/lab2_7.jpg)
 - Краткие Выводы
 
 ## Самостоятельная работа №9
