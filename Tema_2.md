@@ -130,7 +130,7 @@ print(f"Сегодня {day} {month} {year}. Всего хорошего!")
 
 ### Результат.
 
-![Меню](https://github.com/Ckroulis/lab/blob/Tema-2/pic/lab2_5.jpg)
+![Меню]()
 
 ## Выводы
 
