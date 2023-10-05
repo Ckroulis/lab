@@ -87,7 +87,9 @@ print(a.startswith('The'))
 print(a.endswith('end'))
 ```
 ### Результат.
-![Меню](https://github.com/Ckroulis/lab/blob/Tema-3/pic/Lab3_4.2.jpg, https://github.com/Ckroulis/lab/blob/Tema-3/pic/Lab3_4.2.jpg, https://github.com/Ckroulis/lab/blob/Tema-3/pic/Lab3_4.3.jpg)
+![Меню](https://github.com/Ckroulis/lab/blob/Tema-3/pic/Lab3_4.2.jpg)
+![Меню](https://github.com/Ckroulis/lab/blob/Tema-3/pic/Lab3_4.2.jpg)
+![Меню](https://github.com/Ckroulis/lab/blob/Tema-3/pic/Lab3_4.3.jpg)
 
 ## Выводы
 
