@@ -1,0 +1,7 @@
+1) Many things can be repeated in sections of different schools. This is done so that those interested in one school do not have to climb into the sections of others.
+
+2) The speed of the cast in Dark Souls 3 depends on dexterity, and reaches a maximum of 50. At the same time, the Sage's Ring adds 30 virtual dexterity points that do not affect damage, but only increase the speed of the caste. Rings +1 and +2 give 35 and 40 virtual points, respectively, but are only available on NG+ and NG++, so they will not be considered in this guide.
+
+3) Rings of power over an element increase not only the damage from the corresponding magic, but also from weapons that cause damage to this element, and also strengthen the corresponding weapon buffs. However, the rings of direct enhancement of magic do not have any effect on weapon buffs.
+
+4) Mages don't really need shields with 100% physical damage absorption, so this guide will consider only one option for all builds: Llewelyn's Shield, tempered with a Simple Gem. He has good stability, a good parry window, he is quite light and with tempering he slowly restores mana. For the most part, that's all a magician needs.
