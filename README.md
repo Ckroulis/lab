@@ -88,7 +88,7 @@ class Gardener:
 Gardener.knowledge_base()
 
 tomato_bush = TomatoBush(5)
-gardener = Gardener("Иван", tomato_bush)
+gardener = Gardener("Мария", tomato_bush)
 
 gardener.work()
 gardener.work()
